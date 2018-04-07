@@ -1,0 +1,12 @@
+{
+  "name": "node-react-counter",
+  "version": "0.0.1",
+  "description": "first online test",
+  "main": "app.js",
+  "author": "robertBao",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  }
+}
